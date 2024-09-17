@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Alasdair MacIntyre is a tremendously important contemporary moral philosopher, whose works have fundamentally
+Alasdair MacIntyre is a very important contemporary moral philosopher, whose works have fundamentally
 transformed my own understanding of morality. But recognizing his brilliance does not imply accepting all of his
-conclusions without examination. In particular, this paper suggests that MacIntyre's embrace of certain propositions of
+conclusions without examination. In particular, my essay suggests that MacIntyre's embrace of certain propositions of
 Karl Marx on economics exhibit a naive level of economic analysis, particularly disappointing in a thinker who claims he
 is striving to understand the "essence" of economic phenomena.
 
@@ -27,9 +27,16 @@ have adopted, demonstrates that fact.
 So what is "capital," and where does it come from? Of course, anyone may offer any definition of any term he may choose,
 and definitions are never wrong, only more or less useful. But I suggest that there is a very useful definition of
 "capital" that does help us get at the essence of a fundamental economic reality: "capital" is whatever goods a person,
-family, community, tribe, society, or nation might possess that enable an increased amount of "consumer" goods at some future time.
+family, community, tribe, society, or nation might possess that enable it to produce some "consumer" goods at some future time.
 For example, if I personally own a blender, that will enable me to produce smoothies in the future. If my community has
 shared athletic fields, it is more likely to give birth to star athletes down the road.
+
+Now let us look at how capital goods come into being. Following the great Aristotelean-Austrian economist Carl Menger,
+we will look to the simplest of situations involving the birth of capital goods, in order to get at their essence.
+
+"In what follows I have endeavored to reduce the complex phenomena of human economic activity to the simplest elements
+that can still be subjected to accurate observation . . . [and] to investigate the manner in which the more complex
+phenomena evolve from their elements according to definite principles." -- Menger, Principles
 
 
 
@@ -42,3 +49,5 @@ shared athletic fields, it is more likely to give birth to star athletes down th
 
 - MacIntyre, A. C. (2016). *Ethics in the conflicts of modernity : an essay on desire, practical reasoning, and narrative*.
     Cambridge University Press.  http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9781316821442
+
+- Menger, Carl (). *Principles of Economics*, x: y.
