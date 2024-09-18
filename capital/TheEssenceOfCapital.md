@@ -34,9 +34,22 @@ shared athletic fields, it is more likely to give birth to star athletes down th
 Now let us look at how capital goods come into being. Following the great Aristotelean-Austrian economist Carl Menger,
 we will look to the simplest of situations involving the birth of capital goods, in order to get at their essence.
 
+As Menger described his procedure, so we will proceed:
+
 "In what follows I have endeavored to reduce the complex phenomena of human economic activity to the simplest elements
 that can still be subjected to accurate observation . . . [and] to investigate the manner in which the more complex
 phenomena evolve from their elements according to definite principles." -- Menger, Principles
+
+So let us go to the "simplest elements" and consider Alasdair MacIntyre stranded by himself on a tropical island.
+Each day, he goes down to the beach and tries to catch some fish. One day it occurs to him that, if he can build some
+sort of net, he could catch more fish than he can by hand.
+
+Since in each day's work he has been able to catch more than enough fish to survive, he decides to spend part of each
+day building a net out of coconut fibers. The net he fashions becomes a capital good, since it is part of a plan to
+produce more consumer goods (fish) in the future.
+
+Once Alasdair has produced this net, he is in possesion of a capital good, but it would obviously be ridiculous to claim
+that he had "exploited" anyone to come into possesion of it.
 
 
 
