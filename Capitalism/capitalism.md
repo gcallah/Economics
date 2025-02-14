@@ -6,7 +6,7 @@ For Karl Marx and his followers, capitalism is the name of an economic system, w
 productive forces, relies on the exploitation of workers by a class of capitalists, who capture all the workers "surplus
 value" and put it in their pockets. But for Ayn Rand, capitalism is an "unknown ideal," which could possibly come about
 if the government completely refrained from economic interventions. For many on the left today, capitalism means a
-system that trenches vast inequality, environmental destruction, systemic racism, and neo colonialism. "No," some
+system that entrenches vast inequality, environmental destruction, systemic racism, and neo colonialism. "No," some
 libertarians will answer, "that's crony capitalism! In a true free market, those problems would largely disappear."
 Meanwhile, distributists, the followers of G.K. Chesterton, hold with him that the problem of our current economic
 system is *too little* capitalism, by which they mean the capital is in too few hands; they argue that everybody should
@@ -18,9 +18,9 @@ Furthermore, no one can agree on when capitalism got going. The historian Jan Lu
 "Other recent participants in this debate propose [capitalism's] origins as being: in the early middle ages... between
 1400 and 1800; circa 1500 or 1600; between 1600 and 1800; or in the industrialization period of 1850-1920..."
 
-And Lucassen in fact notes that many aspects of what some might call capitalism emerged millennia earlier. As he notes,
+And Lucassen points out that many aspects of what some might call capitalism emerged millennia earlier. As he notes,
 "market economies themselves have appeared multiple times, in various parts of the world, and (sometimes) vanished
-again." In particular, points out that a "deep monetization" of the economy took place, starting around 500 B.C., in
+again." In particular, he describes a "deep monetization" of the economy took place, starting around 500 B.C., in
 three different parts of the world: the Near East / Mediterranean cultural nexus, Mauryan India, and Han and Song China.
 Were these societies "capitalist"?
 
@@ -32,7 +32,7 @@ instances, or just "modern capitalism"?
 What are we to make of this plethora of ideas as to what capitalism is and just when it began? Lucassen argues:
 
 "the central concepts of capitalism and modernity are now in flux... for this reason, I have refrain from giving the
-terms capitalism... and modern... a central place in this book... because I believe that these terms have become so
+terms capitalism... and modernity... a central place in this book... because I believe that these terms have become so
 contaminated in the discussions of the last one to one-and-a-half centuries that they have largely lost their analytical
 power..."
 
@@ -60,9 +60,10 @@ problem by assuming that everyone would adopt his system of ethics as the basis 
 system is the *presupposition* of his pure market society, it cannot itself have been decided upon in a market.
 
 Mises' pure socialist commonwealth described a society with a complex division of labor, but without any markets at all.
-Mises himself, and another of his student's, F.A. Hayek, demonstrated why we never find such a society: the result of
-trying to establish one will result in an inability to do economic calculation: with a complete absence of market
-prices, how can the socialist planner determine what resources should be devoted to any particular end?
+Mises himself, and another of his students, F.A. Hayek, demonstrated why we never find such a society: the result of
+trying to establish one will result in an inability to do rational economic calculation: with a complete absence of market
+prices, how can the socialist planner determine what resources should be devoted to any particular end? (See
+https://en.wikipedia.org/wiki/Socialist_calculation_debate.)
 
 In fact, even in bands of hunter-gatherers, where within the band economic relations were reciprocal and highly
 egalitarian (the condition Marx and Engels called "primitive communism") markets generally existed; as Lucassen notes,
@@ -80,8 +81,9 @@ Even a communist nation such as the Soviet Union relied extensively on markets. 
 illustrates this situation.
 
 The finance minister of the USSR, having visited some western nation, is getting on a plane to go back home. But he
-answers a few questions from the press before boarding. "What," a reporter asks him "is your vision for the future of
-humanity?"
+answers a few questions from the press before boarding.
+
+"What," a reporter asks him "is your vision for the future of humanity?"
 
 "I welcome the day when the whole world will become communist," he replied. "Except for Switzerland."
 
@@ -95,7 +97,7 @@ country used market prices from non-communist countries to do economic calculati
 Furthermore, George Mason economist Peter Boettke and his co-author Gary Anderson, in their paper "Soviet venality: A
 rent seeking model of the communist state," showed that "the mature Soviet system was not a hierarchical central
 planning system at all, but was really a market economy heavily encrusted with central government regulation and
-restrictions." so we have no counter example in the USSR at all.
+restrictions." Thus, the USSR does not provide a counter-example to the Mises-Hayek argument against socialism at all.
 
 Mises' two imaginary constructs provide us with limits to social reality, but much like limits in mathematics, they can
 be approached, but never actually reached. Rather than futilely arguing about whether society should be "capitalist" or
@@ -109,8 +111,8 @@ intervention in the market that created limited liability, corporations a mistak
 of wealth in a few hands that we see today to arise?
 
 If we recognize that all the complex societies embody some combination of markets and governmental creation of
-conditions that permit, ban, or encourage some sorts of market transactions, we might be able to embark on a serious
-discussion of these matters.
+conditions that permit, ban, or encourage some sorts of market transactions, we might be able to embark on a more
+serious discussion of these matters, instead of continuing to dispute just what is and what isn't capitalism.
 
 
 
