@@ -8,10 +8,12 @@ value" and put it in their pockets. But for Ayn Rand, capitalism is an "unknown 
 if the government completely refrained from economic interventions. For many on the left today, capitalism means a
 system that entrenches vast inequality, environmental destruction, systemic racism, and neo colonialism.
 They often talk about "dismantling" capitalism, as though it were a large structure that could be taken apart at the
-joints.
+joints. They decry capitalism's focus on productivity, Perhaps, not, realizing the communist regimes focused on
+productivity perhaps more intently than any capitalist country.
+(https://substack.com/profile/134753550-olive/note/c-83204882)
 
-"No," some
-libertarians will answer, "that's crony capitalism! In a true free market, those problems would largely disappear."
+In response to such criticisms of capitalism, some libertarians will reply, 
+"No, that's crony capitalism! In a true free market, those problems would largely disappear."
 Meanwhile, distributists, the followers of G.K. Chesterton, hold with him that the problem of our current economic
 system is *too little* capitalism, by which they mean the capital is in too few hands; they argue that everybody should
 own some productive capital. The chief problem with the current system, they say, is that it produces a great mass of
