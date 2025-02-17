@@ -2,9 +2,15 @@
 
 No, I'm not talking about the economic system, because I don't even know what that system *is*.
 I'm talking about the word "capitalism." Why do I want to get rid of it?  The term is ubiquitous in
-discussions of political economy. But just what are people talking about, when they talk about capitalism?
+discussions of political economy. But just what are people talking about?
 
-For Karl Marx and his followers, capitalism is the name of an economic system, which, while having unleashed great
+For some conservatives, capitalism is [central to our American
+identity](https://www.aei.org/research-products/speech/the-capitalist-foundations-of-america/). This despite the fact
+that none of the founders had ever heard the term (it was not invented until 1850), and that no less illustrious a
+founder than James Madison advocated laws that "without violating the rights of property, reduce extreme wealth towards
+a state of mediocrity." (https://press-pubs.uchicago.edu/founders/documents/v1ch15s50.html)
+
+For the followers of Karl Marx, capitalism is the name of an economic system, which, while having unleashed great
 productive forces, relies on the exploitation of workers by a class of capitalists, who capture all the workers "surplus
 value" and put it in their pockets. On the other hand,
 for Ayn Rand, capitalism is an "unknown ideal," which could possibly come about
@@ -19,10 +25,13 @@ productivity just as or even more intently than any capitalist country.
 
 In response to such criticisms of capitalism, some libertarians will reply, 
 "No, that's *crony* capitalism! In a true free market, those problems would largely disappear."
-Meanwhile, distributists, the followers of G.K. Chesterton, hold with him that the problem of our current economic
-system is *too little* capitalism, by which they mean the capital is in too few hands; they argue that everybody should
-own some productive capital. The chief problem with the current system, they say, is that it produces a great mass of
-proletarians, whose only asset is their labor, and too few capitalists. [Belloc: this will lead to socialism.]
+Meanwhile, a distributist such as G.K. Chesterton holds him that the problem of our current economic
+system is *too few* capitalists, by which he means that capital is in too few hands; he wanted the mass of the people to
+own some productive capital. In the *Outline of Sanity* he wrote:
+"The truth is what we call Capitalism ought to be called Proletarianism. The point of it is not that some people have
+capital, but that most people only have wages because they do not have capital."
+Chesterton's friend, Hilaire Belloc, argued in *The Servile State*
+that a great concentration of capital would lead, in fact, to socialism.
 
 Furthermore, no one can agree on just when capitalism started. The historian Jan Lucassen, in his book *The Story of Work*, writes:
 
@@ -41,7 +50,7 @@ he acknowledges had early instances, from "modern capitalism," which he contends
 among other factors, to the "Protestant work ethic." So if we talk about capitalism, are we talking about all historical
 instances, or just "modern capitalism"?
 
-So there is widespread disagreement on what capitalism is, and even among those who agree, they can't decide when it
+Thus, we find widespread disagreement on what capitalism is, and even among those who agree, they can't decide when it
 started. Lucassen argues:
 
 "the central concepts of capitalism and modernity are now in flux... for this reason, I have refrain from giving the
@@ -79,7 +88,7 @@ https://en.wikipedia.org/wiki/Socialist_calculation_debate.)
 In fact, even in bands of hunter-gatherers, where within the band economic relations were reciprocal and highly
 egalitarian (the condition Marx and Engels called "primitive communism") markets generally existed; as Lucassen notes,
 "between different bands... [they exchanged] goods, services and people (marriage candidates)." This is not in essence
-different than the situation today, in which, within a family, communism is practiced, while market exchanges are a
+different than the situation today, in which, within a family, communism is generally practiced, while market exchanges are a
 large part of the interactions between family and non-family members. It should be admitted here that there are very
 rare examples of hunter-gather groups that refuse to trade at all, for instance, in the Amazon. But as
 Lucassen notes, "Hunter-gatherers live in groups of a few dozen people, in which household, extended family, and band
@@ -108,7 +117,7 @@ country used market prices from non-communist countries to do economic calculati
 Furthermore, George Mason economist Peter Boettke and his co-author Gary Anderson, in their paper "Soviet venality: A
 rent seeking model of the communist state," showed that "the mature Soviet system was not a hierarchical central
 planning system at all, but was really a market economy heavily encrusted with central government regulation and
-restrictions." Thus, the USSR does not provide a counter-example to the Mises-Hayek argument against socialism at all.
+restrictions." Thus, the USSR does not provide a counter-example to the Mises-Hayek argument against socialism.
 
 Mises' two imaginary constructs provide us with limits to social reality, but much like limits in mathematics, they can
 be approached, but never actually reached. Rather than futilely arguing about whether society should be "capitalist" or
@@ -123,7 +132,7 @@ concentrations of wealth in a few hands that we see today to arise? Nor can the 
 should value greater efficiency in producing material goods relative to other good things, such as social solidarity or
 caring for those left behind in the race to produce more. (And the possible "free market" response that unfettered
 markets, over time, reduce poverty levels, doesn't tell us how to help those who are poor *today*: should we just tell
-them, "Don't worry, in a hundred years your descendants... if you have any... won't be nearly so poor.)
+them, "Don't worry, in a hundred years your descendants... if you have any... won't be nearly so poor."?)
 
 If we recognize that all the complex societies embody some combination of markets and governmental creation of
 conditions that permit, ban, or encourage some sorts of market transactions, we might be able to embark on a more
