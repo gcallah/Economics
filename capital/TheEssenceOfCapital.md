@@ -16,6 +16,11 @@ machines, raw materials – who as employers pay out... wages that are sufficien
 force in being, but that are less than the value that those workers produce. That surplus value is appropriated by the
 employers, for their own economic purposes" (2016: 97).
 
+And MacIntyre is hardly alone in this understanding of capital. For a more recent example, see Leighton Woodhouse,
+(https://www.compactmag.com/article/doge-as-class-war/), who writes: "The owners depended for their profits, and
+therefore their social power, upon the exploitation of the workers, which meant extracting more monetary value out of
+their labor than that labor was worth on the open market..."
+
 I do not wish, for a moment, to deny that there are many historical circumstances in which employers have been able to
 exploit their workers and harness more than their fair share of the outcome of workers' labor. When and where that has
 been, the case is an empirical question. But I do contend that McIntyre's essentialist analysis of the relationship
