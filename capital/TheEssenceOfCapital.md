@@ -1,4 +1,4 @@
-# What Is the Essence of Capital?
+# Is Capital Born in Exploitation?
 
 ## Introduction
 

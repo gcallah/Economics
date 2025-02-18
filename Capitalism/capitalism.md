@@ -5,12 +5,12 @@ I'm talking about the word "capitalism." Why do I want to get rid of it?  The te
 discussions of political economy. But just what are people talking about?
 
 For some conservatives, capitalism is [central to our American
-identity](https://www.aei.org/research-products/speech/the-capitalist-foundations-of-america/). This despite the fact
+identity](https://www.aei.org/research-products/speech/the-capitalist-foundations-of-america/). This is despite the fact
 that none of the founders had ever heard the term (it was not invented until 1850), and that no less illustrious a
 founder than James Madison advocated laws that "without violating the rights of property, reduce extreme wealth towards
 a state of mediocrity." (https://press-pubs.uchicago.edu/founders/documents/v1ch15s50.html)
 
-For the followers of Karl Marx, capitalism is the name of an economic system, which, while having unleashed great
+For the followers of Karl Marx, capitalism is an economic system which, while having unleashed great
 productive forces, relies on the exploitation of workers by a class of capitalists, who capture all the workers "surplus
 value" and put it in their pockets. On the other hand,
 for Ayn Rand, capitalism is an "unknown ideal," which could possibly come about
@@ -25,7 +25,7 @@ productivity just as or even more intently than any capitalist country.
 
 In response to such criticisms of capitalism, some libertarians will reply, 
 "No, that's *crony* capitalism! In a true free market, those problems would largely disappear."
-Meanwhile, a distributist such as G.K. Chesterton holds him that the problem of our current economic
+Meanwhile, a distributist such as G.K. Chesterton holds that the problem of our current economic
 system is *too few* capitalists, by which he means that capital is in too few hands; he wanted the mass of the people to
 own some productive capital. In the *Outline of Sanity* he wrote:
 "The truth is what we call Capitalism ought to be called Proletarianism. The point of it is not that some people have
@@ -50,10 +50,10 @@ he acknowledges had early instances, from "modern capitalism," which he contends
 among other factors, to the "Protestant work ethic." So if we talk about capitalism, are we talking about all historical
 instances, or just "modern capitalism"?
 
-Thus, we find widespread disagreement on what capitalism is, and even among those who agree, they can't decide when it
-started. Lucassen argues:
+In short, we find widespread disagreement on what capitalism is, and even among those who agree, they can't decide when
+it started. Lucassen argues:
 
-"the central concepts of capitalism and modernity are now in flux... for this reason, I have refrain from giving the
+"the central concepts of capitalism and modernity are now in flux... for this reason, I have refrained from giving the
 terms capitalism... and modernity... a central place in this book... because I believe that these terms have become so
 contaminated in the discussions of the last one to one-and-a-half centuries that they have largely lost their analytical
 power..."
@@ -80,8 +80,8 @@ problem by assuming that everyone would adopt his system of ethics as the basis 
 system is the *presupposition* of his pure market society, it cannot itself have been decided upon in a market.
 
 Mises' pure socialist commonwealth described a society with a complex division of labor, but without any markets at all.
-Mises himself, and another of his students, F.A. Hayek, demonstrated why we never find such a society: the result of
-trying to establish one will result in an inability to do rational economic calculation: with a complete absence of market
+Mises himself, and another of his students, F.A. Hayek, demonstrated why we never find a pure socialist society: the result of
+trying to establish one will be an inability to do rational economic calculation. With a complete absence of market
 prices, how can the socialist planner determine what resources should be devoted to any particular end? (See
 https://en.wikipedia.org/wiki/Socialist_calculation_debate.)
 
@@ -90,7 +90,7 @@ egalitarian (the condition Marx and Engels called "primitive communism") markets
 "between different bands... [they exchanged] goods, services and people (marriage candidates)." This is not in essence
 different than the situation today, in which, within a family, communism is generally practiced, while market exchanges are a
 large part of the interactions between family and non-family members. It should be admitted here that there are very
-rare examples of hunter-gather groups that refuse to trade at all, for instance, in the Amazon. But as
+rare examples of hunter-gather groups that refuse to trade at all. But as
 Lucassen notes, "Hunter-gatherers live in groups of a few dozen people, in which household, extended family, and band
 more or less coincide." These bands do not have an extensive division of labor; so the few hunter-gatherer groups that
 refuse to trade are not particularly different than a modern family that goes "off grid" in Alaska, and not a
@@ -111,7 +111,7 @@ answers a few questions from the press before boarding.
 
 "Well, we need someplace to get the prices from!"
 
-And this is part of the answer as to how the USSR managed to limp along for 70 years: the economic planners of that
+And this is part of the answer as to how the USSR managed to limp along for seven decades: the economic planners of that
 country used market prices from non-communist countries to do economic calculation.
 
 Furthermore, George Mason economist Peter Boettke and his co-author Gary Anderson, in their paper "Soviet venality: A
@@ -126,8 +126,8 @@ is an engine of great economic efficiency, but it is fundamentally amoral: no de
 efficacy of market transactions can tell us if there are things that should not be bought or sold, because allowing mere
 private demand for them to determine their availability is destructive for society as a whole. I think we have nearly
 unanimous agreement today that there should not be markets for slaves or contract killings. But should there be markets
-for sexual services? For childbearing? For pornography? For dangerous and addictive drugs? Was the government
-intervention in the market that created limited liability corporations a mistake, one that allowed the huge
+for sexual services? For human organs? For childbearing? For pornography? For dangerous and addictive drugs? Was the
+government intervention in the market that created limited liability corporations a mistake, one that allowed the huge
 concentrations of wealth in a few hands that we see today to arise? Nor can the science of economics tell us how much we
 should value greater efficiency in producing material goods relative to other good things, such as social solidarity or
 caring for those left behind in the race to produce more. (And the possible "free market" response that unfettered
@@ -136,5 +136,5 @@ them, "Don't worry, in a hundred years your descendants... if you have any... wo
 
 If we recognize that all the complex societies embody some combination of markets and governmental creation of
 conditions that permit, ban, or encourage some sorts of market transactions, we might be able to embark on a more
-serious discussion of these matters, instead of continuing to dispute just what is and what isn't capitalism.
+serious discussion of these matters, instead of continuing to bloviate about "capitalism."
 
