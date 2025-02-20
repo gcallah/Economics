@@ -1,8 +1,7 @@
 # It's Time to Get Rid of "Capitalism"
 
-No, I'm not talking about the economic system, because I don't even know what that system *is*.
-I'm talking about the word "capitalism." Why do I want to get rid of it?  The term is ubiquitous in
-discussions of political economy. But just what are people talking about?
+The term "capitalism" is past its due date. Why? It means too many things too many different people to actually be a
+useful tool for thought.
 
 For some conservatives, capitalism is [central to our American
 identity](https://www.aei.org/research-products/speech/the-capitalist-foundations-of-america/). This is despite the fact
@@ -58,7 +57,7 @@ terms capitalism... and modernity... a central place in this book... because I b
 contaminated in the discussions of the last one to one-and-a-half centuries that they have largely lost their analytical
 power..."
 
-I say that Lucassen is spot on here: we can do better than all this wrangling about what exactly capitalism is and
+Lucassen is spot on here: we can do better than all this wrangling about what exactly capitalism is and
 whether we have a capitalist economy or not. We might look to the great Austrian economist Ludwig von Mises for guidance
 in this regard. He described two "imaginary constructions" for use in economic analysis: the imaginary construction of a
 pure market economy and the imaginary construction of a socialist society. The purpose of such constructions was to
