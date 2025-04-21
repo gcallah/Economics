@@ -1,4 +1,4 @@
-Price Gouging
+# Price Gouging
 
 
 It has often been claimed, chiefly by Democratic politicians and their supporters, that the cause of the spike in
