@@ -64,13 +64,14 @@ to do so, we can turn to Aristotle, who suggested that market exchanges ought to
 and the seller. Sometimes, this is naïvely been interpreted as meaning that the buyer ought to value the good he is
 acquiring as equal to the value the good he was giving up, and vice a versa for the seller. As I noted previously
 (https://mises.org/mises-daily/carl-menger-nature-value
-), that interpretation would produce an absurd situation in which the two parties to be willing to exchange the two goods back-and-forth without limit.
+), that interpretation would produce an absurd situation in which the two parties would
+be willing to exchange the two goods back-and-forth without limit.
 
 But I think we can rescue Aristotle's idea of "equal values" by turning to the concept of economic surplus.
-(https://en.wikipedia.org/wiki/Economic_surplus) This surplus arises for a consumer, when the consumer can purchase a
-good for less than the maximum price, they would be willing to pay for it. For instance, if I can enjoy a lunch at
-Bunky's market down the road from me for $10, but I would be willing to pay $15 for the same meal, then I enjoyed a five
-dollar "consumer surplus." Meanwhile, if Bunky's would have been willing to sell me that meal for $7.50, then Bunky's
+(https://en.wikipedia.org/wiki/Economic_surplus) This surplus arises for a consumer when the consumer can purchase a
+good for less than the maximum price they would be willing to pay for it. For instance, if I can enjoy a lunch at
+Mr. Bunky's market down the road from me for $10, but I would be willing to pay $15 for the same meal, then I enjoyed a five
+dollar "consumer surplus." Meanwhile, if Mr. Bunky's would have been willing to sell me that meal for $7.50, then Mr. Bunky's
 enjoyed a $2.50 producer surplus.
 
 Without meaning to suggest that this is what Aristotle "really meant," we can render his search for equality in exchange
@@ -95,3 +96,8 @@ Of course, in the real world, as opposed to in a thought experiment, it is not e
 party would buy or sell a good for. Nevertheless, we can often get a rough sense of where a "middle" price is. For
 instance, say you were contemplating selling your old car for $1000. Someone, driving by, stops and says "Hey, I'll give
 you $2000 for that car." If you want to be a good Aristotelian, you probably should reply, "Listen, just give me $1500."
+
+Lastly, Someone bringing goods to a disaster, struck area, might very well choose to go above and beyond adjust price,
+and actually provide charity to the suffers, for instance, by simply donating bottled water. Such acts of charity or
+praiseworthy, but they are not compulsory, and it is not unjust to actually charitably in some situations, but not in
+others.
