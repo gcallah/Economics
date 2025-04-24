@@ -91,14 +91,14 @@ The effort to escape from the circularity of all cost-based theories of price is
 The marginalists realized that the price a consumer will pay for a good is determined by the usefulness (the *marginal
 utility*) of acquiring the next (the *marginal*) unit of that good. Producers' costs do not matter to the consumer: we
 don't pay more for tomatoes raised in Patagonia simply because it is so difficult to raise them there. Of course, costs
-are important on the market: If a good is not useful enough to consumers that they won't pay the cost of producing it,
+*are* important on the market: If a good is not useful enough to consumers that they won't pay the cost of producing it,
 then no one will make it. We don't find solid gold bathroom cabinets for sale at Home Depot because, although many
-people might like to have them, they simply don't want them enough to pay for the enormous cost of producing them.
+people might like to have them, they simply don't want them enough to pay for the enormous cost of making them.
 To the contrary, according to cost-based theory of price formation, we ought to find them on the shelves at our local
-hardware store, and happily pay the enormous price because costs determine prices.
+hardware store, and happily pay the enormous price, if costs really did determine prices.
 
 In other words, the economic theory EPI is using is over a century-and-a-half out of date. But, to give them their due,
-it *is* an interesting question as to why so much of the price increases in our recent inflationary episode resulted in
+it *is* an interesting question as to why so much of the price rise in our recent inflationary episode resulted in
 increased corporate profits rather than, say, increased wages. If the EPI had recognized that *that* was actually the
 puzzle that needed explanation, they might have zeroed in on policies that shut down many small businesses while
 allowing corporate behemoths to remain open.
