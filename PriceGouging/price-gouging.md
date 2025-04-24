@@ -102,3 +102,8 @@ it *is* an interesting question as to why so much of the price increases in our 
 increased corporate profits rather than, say, increased wages. If the EPI had recognized that *that* was actually the
 puzzle that needed explanation, they might have zeroed in on policies that shut down many small businesses while
 allowing corporate behemoths to remain open.
+
+We don't need an implausible theory positing that greedy corporations suddenly woke up to the fact that they could set
+their "mark up" however high they wanted to explain our recent episode of inflation. "[Unprecedented levels of fiscal and
+monetary stimulus](https://en.wikipedia.org/wiki/2021–2023_inflation_surge#Fiscal_and_monetary_policy)"
+combined with a serious supply-side shock from the pandemic fully explain the price increases we recently witnessed.
