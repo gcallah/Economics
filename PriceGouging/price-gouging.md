@@ -2,10 +2,10 @@
 
 
 It has been claimed, chiefly by [Democratic politicians](https://tinyurl.com/43eayz3p)
-and their supporters, that the cause of the spike in
-inflation in the latter years of the Biden administration was "price gouging." The argument was that there were no real
-economic factors pushing prices higher. No, greedy producers raised their prices for no valid reason other than to line
-their own pockets.
+and their supporters, that the chief cause of the spike in
+inflation in the latter years of the Biden administration was "price gouging." Real
+economic factors played a small part in pushing prices higher: it was mostly greedy producers raising
+their prices simply to line their own pockets.
 
 There are two problems here. The first is that there is no explanation why the greediness of producers was suddenly
 effective. Let us suppose that producers as a whole are even greedier than the legendary Ebeneezer Scrooge. However, we
@@ -25,7 +25,7 @@ And to the extent that a cartel of gas station owners could all raise their gas 
 encounter the same question as above: why did they wait until 2022 to do so? No one has argued that a cartel suddenly formed
 in 2022.
 
-Here we will sometimes find the ["excuse theory"](https://tinyurl.com/mjdk6jx9).
+To answer that question, we will sometimes find the ["excuse theory"](https://tinyurl.com/mjdk6jx9).
 This theory first assumes that producers always wanted to raise the prices. (And that is generally true, just as workers
 generally want higher wages, and people selling their homes hope to get the highest offers possible)
 
@@ -34,13 +34,13 @@ assumption is a lot more dubious than the first. After all, if I think I can sel
 don't wait for a "good excuse" before asking for that much. If you find an employer who will offer you twice your
 current salary, do you need an excuse to take that job?
 The excuse theory handles that problem by supposing that corporations are afraid of public backlash for raising prices
-if they don't have such an excuse handy. (However, given that there was a public backlash and accusations of "price
+if they don't have such an excuse handy. (However, given that there *was* a public backlash and accusations of "price
 gouging" anyway, it seems the excuse hardly served its purpose!)
 
 Finally, this theory contends that the supply chain interruptions caused by the pandemic and the lockdowns provided just
 such an excuse. The problem with this story is that it is trying to navigate a too narrow passage between Scylla and
 Charybdis: on the one hand, if it steers too close to the supply chain interruption side of the story, Scylla's rocks
-will smash it to bits and reveal the supply-side shock as the real cause of the price increases. But if it avoids Scylla
+will smash it to bits and reveal the supply-side shock as a real cause of the price increases. But if it avoids Scylla
 it will be sucked down by Charybdis: if the supply chain interruptions were just "an excuse", couldn't these clever,
 greedy, and diabolical producers have come up with *some other* excuse in 2019 to raise prices back then?
 
@@ -78,10 +78,11 @@ to increase their profit margin... then why did they wait until 2022 to do so?
 
 The EPI is using a cost based theory of pricing. But all such theories, for example, Karl Marx's labor theory of value,
 are viciously circular, as they cannot explain why the cost of the inputs to a good are what they are. Marx,
-for instance, had to posit that the value of a good was not determined by just any labor that went into it. Otherwise,
+for instance, had to posit that the value of a good was determined by the labor that went into making it...
+but not just *any* labor. Otherwise,
 producers could drive the price of a good up simply by employing more and more labor to produce it. Obviously, a theory that
 argues that *all* labor contributes to the price of a good would imply that I could get paid more for this article by typing it
-with my toes, since that would involve more labor than typing it with my fingers. Marx (to his credit)
+with my toes, since that would involve more work than typing it with my fingers. Marx (to his credit)
 recognized this problem, and created the category of "socially useful labor" in an attempt to handle it.
 But "socially useful labor" is just the labor that *actually* makes the good more valuable: So we have moved in a
 circle, and have not explained the source of a good's value at all.
@@ -94,8 +95,8 @@ don't pay more for tomatoes raised in Patagonia simply because it is so difficul
 *are* important on the market: If a good is not useful enough to consumers that they won't pay the cost of producing it,
 then no one will make it. We don't find solid gold bathroom cabinets for sale at Home Depot because, although many
 people might like to have them, they simply don't want them enough to pay for the enormous cost of making them.
-To the contrary, according to cost-based theory of price formation, we ought to find them on the shelves at our local
-hardware store, and happily pay the enormous price, if costs really did determine prices.
+To the contrary, according to a cost-based theory of price formation, we ought to find them on the shelves at our local
+hardware store, and happily pay the enormous price, as per the theory costs determine prices.
 
 In other words, the economic theory EPI is using is over a century-and-a-half out of date. But, to give them their due,
 it *is* an interesting question as to why so much of the price rise in our recent inflationary episode resulted in
