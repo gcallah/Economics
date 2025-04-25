@@ -1,4 +1,4 @@
-# Price Gouging
+# Did Price Gouging Cause the Biden-Era Inflation?
 
 
 It has been claimed, chiefly by [Democratic politicians](https://tinyurl.com/43eayz3p)
