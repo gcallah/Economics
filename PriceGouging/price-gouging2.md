@@ -7,11 +7,11 @@ hurricane hits western North Carolina, and suddenly the price of bottled water, 
 fuel, and so on spikes. Here clearly there is a case where "greedy producers" simply have taken advantage of a situation
 to pad their bank accounts, right?
 
-Here, I suggest the situation is more nuanced than suggested by that simplistic account. The first thing we should take
+But the situation is more nuanced than suggested by that simplistic account. The first thing we should take
 note of is that higher prices for goods in an area suffering from a disaster serve to redirect goods from other places
 to the affected area. Furthermore, suppliers are faced with real costs in redirecting goods: re-directing shipments at
-the last minute will be an expensive undertaking.
-
+the last minute will be an expensive undertaking, and other customers are likely to be upset if their orders arrive late
+as a result.
 
 Nevertheless, I think we can give a real meaning to the term "price gouging" in the situation of natural disasters. And
 to do so, we can turn to Aristotle, who suggested that market exchanges ought to provide "equal value" to both the buyer
