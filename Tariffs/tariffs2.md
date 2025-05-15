@@ -82,6 +82,12 @@ food for themselves... and then the sandwich shop refused to serve them.
 
 
 
+Now perhaps the state has no legitimate role in promoting these other things. Perhaps the only justifiable state is the
+nightwatchman state [as described by Robert Nozick](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia). But
+whether or not that is the case is not something the science of economics can tell, nor is a subject economists have any
+special expertise on.
+
+
 None of the above considerations lead to any particular trade policy, nor do they prove that Trump's approach
 to tariffs has been good for Americans. Globalization and specialization have benefits, but also risks. Only with
 prudential judgment on a case by case basis, and not based upon abstract models, can we hope to achieve a good balance
