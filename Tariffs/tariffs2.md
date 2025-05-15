@@ -56,7 +56,9 @@ City, and San Francisco, and Austin, who can increasingly obtain such products, 
 Buffalo, and Cleveland are increasingly immesireated... how in the world can Munger's reasoning declare that such a
 result only harms some foreign contry's consumers?
 
-
+Munger has been hypontized by a model in which the cumulative effect of some policy on all subject to it justifies the
+very significant effects of that policy on particular people. And, indeed, that is an assumption that abstract
+economical models typically embody.
 
 
 
