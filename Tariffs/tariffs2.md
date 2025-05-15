@@ -49,6 +49,15 @@ But what about, for instance, national security? Even if Americans can increase 
 the fact that in some future conflict, China might cut off access to such goods? There is no possible economic model
 that could yield an unequivocal answer to that question.
 
+Furthermore, Munger does not consider how the "ability to obtain high quality, low cost products" is distributed in his
+ideal "free trade" society. Let us grant that, under Munger's for trade regime, Americans as a whole can more easily
+"obtain high quality, low cost products." But let also suppose that it is the high-income residents of LA, and New York
+City, and San Francisco, and Austin, who can increasingly obtain such products, while the residents of Detroit, and
+Buffalo, and Cleveland are increasingly immesireated... how in the world can Munger's reasoning declare that such a
+result only harms some foreign contry's consumers?
+
+
+
 
 
 
