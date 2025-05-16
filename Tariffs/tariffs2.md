@@ -6,8 +6,9 @@ economists](https://reason.com/2025/04/24/over-1500-economists-agree-trumps-tari
 contending that Trump's tariffs are "terrible" (as *Reason* characterized the contents of the letter). Well, surely
 that's that: who would know more about the impact of tariffs than economists? 
 
-This belief recipe on a mistaken idea, that expertise at theoretical economic science, makes its possessor equally an
-expert at the practical matter of determining good political decisions. In other words, it is yet another example of the
+This belief rests on a mistaken idea, that expertise at theoretical economic science makes its possessor equally an
+expert at the practical matter of determining good political decisions, at least so long as they involve business
+matters or wealth. In other words, it is yet another example of the
 [rationalism in politics](https://fee.org/articles/michael-oakeshott-on-rationalism-in-politics/)
 so ably critiqued by Michael Oakeshott.
 
@@ -16,16 +17,16 @@ Oakeshott's insights were based upon Aristotle's fundamental distinction between
 "The sphere of prudence is closed since the principles of prudence -- the ends in the light of which prudence guides man --
 are known independently of theoretical science."
 
-In his first book, *Experience and Its Modes*, Oakeshott held that any opining of theory into practical affairs was
-completely irrelevant. But later, in the essay ["The Voice of Poetry in the Conversation of
+In his first book, *Experience and Its Modes*, Oakeshott held that any opining of theory upon practical affairs was
+guilty of complete irrelevance. But later, in the essay ["The Voice of Poetry in the Conversation of
 Mankind"](https://kirkcenter.org/essays/the-voice-of-michael-oakeshott-in-the-conversation-of-conservatism/), he
-softened that absolute separation somewhat: he had decided that we're here called the different "modes" of experience
-could actually converse with each other, so long as one did not try to become dominant over all the others. But he also
-noted that the mode of science had become especially strident in its voice, and would often attempt to dictate to all of
+softened that absolute separation somewhat: he had decided that he called the different "modes" of experience
+could actually converse with each other, so long as one did not try to dominate to all the others. In that regard,
+he noted that the mode of science had become especially strident in its voice, and would often attempt to dictate to all of
 the other modes (such as practice, history, or art).
 
-In that essay, I believe that Oakeshott hit upon the proper relationship of theoretical sciences to practice: they
-ought to be in conversation, but with science in no position at all to *dictate* practical decisions. So in considering
+In that essay, I believe that Oakeshott hit upon the proper relationship of theoretical sciences to practice: the
+best relationship between them is a conversation, in which science has no authority over practical decisions. So in considering
 practical economic policies, theoretical economists are quite within their remit to suggest that one or another of their
 models might have some bearing on what actual policies a government should pursue. But far too often, they assume that
 their abstract models ought to allow them to *dictate* what practical policies should be pursued. That misunderstanding
@@ -38,53 +39,64 @@ Michael Munger said: "If another country manipulates its currency, or has trade 
 consumers. 'Wealth' is the ability to obtain high quality, low cost products."
 
 However, that definition of wealth is not a *conclusion* of economic science, but an *assumption* that economists make so
-that they can reach conclusions with their models. Other definitions are entirely possible, for instance, one might
-argue that the truly wealthy person is happy with what he has, or that living in a stable, supportive families and
+that they can have numeric inputs for their models.
+Other definitions are entirely possible, for instance, one might
+argue that the truly wealthy person is happy with what he has and not continually striving for more and more.
+It also seems reasonable to hold that living in stable, supportive families and
 communities is real wealth, while consumer goods are distinctly secondary sorts of "riches."
+But economists can at least roughly measure whether some demographic is buying more consumption goods, but it is very hard
+to put a number on being satisfied with what one has or living within a loving family.
 
-Even if we accept Munger's definition of wealth, there is another assumption that he leaves unstated, namely, that the
+However, even if we accept Munger's definition of wealth, there is another assumption that he leaves unstated, namely, that the
 only possible goal of trade policy is to increase a nation's "wealth" as he has defined it.
 But what about, for instance, national security? Even if Americans can increase their access to
 "high quality, low cost products" by buying those goods from Chinese manufacturers, does this automatically trump
-the fact that in some future conflict, China might cut off access to such goods? There is no possible economic model
-that could yield an unequivocal answer to that question.
-
-Furthermore, Munger does not consider how the "ability to obtain high quality, low cost products" is distributed in his
-ideal "free trade" society. Let us grant that, under Munger's for trade regime, Americans as a whole can more easily
-"obtain high quality, low cost products." But let also suppose that it is the high-income residents of LA, and New York
-City, and San Francisco, and Austin (symbolic capitalists), who can increasingly obtain such products, while the residents of Detroit, and
-Buffalo, and Cleveland are increasingly immesireated... how in the world can Munger's reasoning declare that such a
-result only harms some foreign contry's consumers?
-
-Munger has been hypontized by a model in which the cumulative effect of some policy on all subject to it justifies the
-very significant effects of that policy on particular people. And, indeed, that is an assumption that abstract
-economical models typically embody.
-
-
-
-
-
-
-Even in terms of "consumer welfare" the economist model is radically incomplete. (Which is to be expected, since it is
-just a model.) Even if we grant that we are able to consume more stuff by allowing China to manufacture many of the
-products we want, the model does not include the possibility that China might decide to use our dependence on their
-manufacturing as an instrument of economic warfare. What will the consequences be of China decides to cut off American
-access to the three essential medicines which only are manufactured in that country? Is getting those medicine somewhat
-cheaper at present worth the risk of this attack? No model can make that judgment for us.
-
-
-The idea that more consumption is always a positive good is just an assumption, and is not backed by much evidence.
-
+the fact that in some future conflict, China might to stop supplying such goods?
+For instance, what will the consequences be if China decides to cut off American
+access to the three essential medicines which only are manufactured in that country? Is getting those medicines somewhat
+cheaper at present worth the risk of this attack?
+There is no economic model that could yield unequivocal answers to those questions.
 
 Flippant economist often like to joke about how they run a "trade deficit" with the sandwich shop down the road. But the
 humor would disappear if the sandwich shop became their only source of food, so that they lost the ability to prepare
 food for themselves... and then the sandwich shop refused to serve them.
 
+Furthermore, Munger does not consider how the "ability to obtain high quality, low cost products" is distributed in his
+ideal "free trade" society. Let us grant that, under Munger's for trade regime, Americans as a whole can more easily
+such products. But let also suppose that it is the high-income residents of LA, and New York
+City, and San Francisco, and Austin (Musa al-Gharbi's [symbolic capitalists](https://musaalgharbi.substack.com/p/meet-the-symbolic-capitalists)),
+who can increasingly obtain such products, while the residents of Detroit, and
+Buffalo, and Cleveland are increasingly immiserated: no economic model can tell us whether it is healthy for the U.S. to
+pursue such a policy.
 
+The free market faithful often respond to someone pointing out the devastating effects U.S. economic policy has had on
+many industrial cities with ["just move to where it's better"](https://tinyurl.com/2np857zz). The factors that make this
+solution costly for many people, such as leaving behind close family, lifelong friends, faith communities, local
+history, and a natural environment that feels like their home, are reduced to mere "lifestyle preferences," as though
+leaving all these things behind were equivalent to switching deodorant brands or starting to drink bourbon instead of
+scotch. What does it matter if you have left behind your family, your friends, your church, your history, and
+your connection to the land, so long as
+["you can purchase a coffee table on Amazon and have it delivered to your front door in a few
+days"](https://vintage.isi.org/modern-age/humane-economy-a-symposium/#AnneRathboneBradley)?
 
-Now perhaps the state has no legitimate role in promoting these other things. Perhaps the only justifiable state is the
+In *De Legibus*, Cicero famously declared that "Salus populi suprema lex esto": the health of the people should be the
+supreme law. And this meant not just the health of their bodies, but also [their
+souls](https://graymirror.substack.com/p/4-principles-of-any-next-regime). And there is just no evidence anywhere that
+positing consumption as the *summum bonum* actually makes for a healthier people. As Yarvin points out in the essay
+linked just above:
+
+"Venezuela, which has the most oil in South America by far, is the worst basket case in South America by far. What we
+realize is that economic activity -- humans working and trading -- is essential to a society, a civilization and a nation. An
+economy in which five people stick a pipe in the ground, and everyone else lives on government checks, does not seem to
+work as a society, a civilization or a nation."
+
+Yet economists' models of trade do not account for this reality at all; in fact, they boast that by following their
+policies, [we get to consume more and work less](https://www.cato.org/policy-analysis/updated-case-free-trade#economic-case).
+
+Now perhaps Cicero was wrong, and the state has no legitimate role in promoting the physical and spiritual health of the people.
+Perhaps the only justifiable state is the
 nightwatchman state [as described by Robert Nozick](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia). But
-whether or not that is the case is not something the science of economics can tell, nor is a subject economists have any
+whether or not that is the case is ceertainly not something the science of economics can tell us, nor is a subject economists have any
 special expertise on.
 
 
@@ -95,9 +107,3 @@ of the two.
 
 
 
-
-
-
-https://www.cato.org/policy-analysis/updated-case-free-trade#economic-case
-
-We get to consume more and work less.
