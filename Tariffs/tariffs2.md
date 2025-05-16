@@ -96,13 +96,16 @@ policies, [we get to consume more and work less](https://www.cato.org/policy-ana
 Now perhaps Cicero was wrong, and the state has no legitimate role in promoting the physical and spiritual health of the people.
 Perhaps the only justifiable state is the
 nightwatchman state [as described by Robert Nozick](https://en.wikipedia.org/wiki/Anarchy,_State,_and_Utopia). But
-whether or not that is the case is ceertainly not something the science of economics can tell us, nor is a subject economists have any
+whether or not that is the case is certainly not something the science of economics can decide, nor is a subject economists have any
 special expertise on.
 
+Economists who believe they have some special expertise to dictate trade policy have failed to recognize the [modal
+confusion](https://econfaculty.gmu.edu/pboettke/workshop/Fall2009/Callahan.pdf)
+characterizing their discipline, and have mistaken the results from their abstract models for concreate reality.
 
-None of the above considerations lead to any particular trade policy, nor do they prove that Trump's approach
+Of course, none of the above considerations lead to any particular trade policy, nor do they prove that Trump's approach
 to tariffs has been good for Americans. Globalization and specialization have benefits, but also risks. Only with
-prudential judgment on a case by case basis, and not based upon abstract models, can we hope to achieve a good balance
+prudential judgment on a case by case basis, rather than relying upon abstract models, can we hope to achieve a good balance
 of the two.
 
 
